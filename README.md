@@ -8,10 +8,13 @@ In times like these, people often have dozens of accounts, each with a username 
 This extension is not hosted on the Chrome Web Store. Therefore, to make use of this extension you need to add it to Chrome yourself. But, this is not hard!
 
 1. Download the zip of this project and unzip or use ```git clone``` to get a local copy of this extension.
-2. Go to chrome://extensions/.
+2. Go to [chrome://extensions](chrome://extensions).
 3. Click on Load Unpacked in the top left corner of the browser.
 4. Select the folder that contains the files of this project.
 5. Done!
 
 # How to use
 To use it, just click on the icon in the top right corner of Chrome when you are on a login page with the password like [•••••••••••••] to show it. Click the icon again to hide the password.
+
+<img src="imgs/hidden.png" width="350">
+<img src="imgs/shown.png" width="350">
